@@ -9,7 +9,8 @@ namespace ProjectA
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
+
         }
     }
 }
